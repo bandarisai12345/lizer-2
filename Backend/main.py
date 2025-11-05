@@ -15,7 +15,7 @@ import os
 from google import generativeai as genai
 
 # Configure Gemini
-GOOGLE_API_KEY = "AIzaSyBwB4xeRyC5iPY8jC_tJJgc1Z-FrFbR0lE"
+GOOGLE_API_KEY = ""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize FastAPI
