@@ -33,5 +33,9 @@ Recommend appointment types based on conversation context.
 
 If the Gemini API key is not provided, the system gracefully defaults to mock responses.
 
-https://github.com/user-attachments/assets/ac8cedeb-e987-4cc7-af7d-98f9582ac3d9
+
+
+https://github.com/user-attachments/assets/fe3abb3f-a085-4d9e-b516-5b49bd401459
+
+
 
