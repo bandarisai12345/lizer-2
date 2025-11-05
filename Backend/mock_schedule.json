@@ -1,0 +1,1912 @@
+{
+  "general_consultation": {
+    "duration_minutes": 30,
+    "schedule": {
+      "Monday": {
+        "date": "2025-11-03",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": false
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": false
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Tuesday": {
+        "date": "2025-11-04",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Wednesday": {
+        "date": "2025-11-05",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Thursday": {
+        "date": "2025-11-06",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": false
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Friday": {
+        "date": "2025-11-07",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": false
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Saturday": {
+        "date": "2025-11-08",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Sunday": {
+        "date": "2025-11-09",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:00",
+            "available": false
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      }
+    }
+  },
+  "followup": {
+    "duration_minutes": 15,
+    "schedule": {
+      "Monday": {
+        "date": "2025-11-03",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": false
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": false
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": false
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": true
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": true
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": false
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": true
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Tuesday": {
+        "date": "2025-11-04",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": true
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": false
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": true
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": false
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": false
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": true
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": true
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": true
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Wednesday": {
+        "date": "2025-11-05",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": true
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": false
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": false
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": true
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": true
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": false
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": true
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Thursday": {
+        "date": "2025-11-06",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": true
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": false
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": false
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": true
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": false
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": true
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": false
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": true
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Friday": {
+        "date": "2025-11-07",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": false
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": false
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": true
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": false
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": false
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": true
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": false
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": true
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": false
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": false
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": false
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Saturday": {
+        "date": "2025-11-08",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": true
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": true
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": true
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": true
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": false
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": false
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": false
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": true
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Sunday": {
+        "date": "2025-11-09",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:15",
+            "available": false
+          },
+          {
+            "start_time": "11:15",
+            "end_time": "11:30",
+            "available": true
+          },
+          {
+            "start_time": "11:30",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "12:15",
+            "available": true
+          },
+          {
+            "start_time": "12:15",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "12:45",
+            "available": true
+          },
+          {
+            "start_time": "12:45",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "13:15",
+            "available": false
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "13:30",
+            "available": false
+          },
+          {
+            "start_time": "13:30",
+            "end_time": "13:45",
+            "available": true
+          },
+          {
+            "start_time": "13:45",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:15",
+            "available": true
+          },
+          {
+            "start_time": "14:15",
+            "end_time": "14:30",
+            "available": true
+          },
+          {
+            "start_time": "14:30",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "15:15",
+            "available": true
+          },
+          {
+            "start_time": "15:15",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "15:45",
+            "available": true
+          },
+          {
+            "start_time": "15:45",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "16:30",
+            "available": true
+          },
+          {
+            "start_time": "16:30",
+            "end_time": "16:45",
+            "available": false
+          },
+          {
+            "start_time": "16:45",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      }
+    }
+  },
+  "physical_exam": {
+    "duration_minutes": 45,
+    "schedule": {
+      "Monday": {
+        "date": "2025-11-03",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Tuesday": {
+        "date": "2025-11-04",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": false
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Wednesday": {
+        "date": "2025-11-05",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Thursday": {
+        "date": "2025-11-06",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": false
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Friday": {
+        "date": "2025-11-07",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": false
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": true
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": false
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Saturday": {
+        "date": "2025-11-08",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": true
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": false
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Sunday": {
+        "date": "2025-11-09",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "11:45",
+            "available": true
+          },
+          {
+            "start_time": "11:45",
+            "end_time": "12:30",
+            "available": true
+          },
+          {
+            "start_time": "12:30",
+            "end_time": "13:15",
+            "available": false
+          },
+          {
+            "start_time": "13:15",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "14:45",
+            "available": true
+          },
+          {
+            "start_time": "14:45",
+            "end_time": "15:30",
+            "available": false
+          },
+          {
+            "start_time": "15:30",
+            "end_time": "16:15",
+            "available": true
+          },
+          {
+            "start_time": "16:15",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      }
+    }
+  },
+  "specialist_consultation": {
+    "duration_minutes": 60,
+    "schedule": {
+      "Monday": {
+        "date": "2025-11-03",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": false
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Tuesday": {
+        "date": "2025-11-04",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Wednesday": {
+        "date": "2025-11-05",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Thursday": {
+        "date": "2025-11-06",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": true
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Friday": {
+        "date": "2025-11-07",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": false
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      },
+      "Saturday": {
+        "date": "2025-11-08",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": false
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": true
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": false
+          }
+        ]
+      },
+      "Sunday": {
+        "date": "2025-11-09",
+        "slots": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "available": true
+          },
+          {
+            "start_time": "12:00",
+            "end_time": "13:00",
+            "available": true
+          },
+          {
+            "start_time": "13:00",
+            "end_time": "14:00",
+            "available": false
+          },
+          {
+            "start_time": "14:00",
+            "end_time": "15:00",
+            "available": false
+          },
+          {
+            "start_time": "15:00",
+            "end_time": "16:00",
+            "available": true
+          },
+          {
+            "start_time": "16:00",
+            "end_time": "17:00",
+            "available": true
+          }
+        ]
+      }
+    }
+  }
+}
